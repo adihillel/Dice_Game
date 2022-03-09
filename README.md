@@ -6,4 +6,4 @@
 
 1. HTML
 2. CSS
-3. REACT
+3. JavaScript
